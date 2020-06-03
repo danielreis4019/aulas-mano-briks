@@ -25,6 +25,9 @@
 - Basicamente esse comando exibi os **status(unstage, stage, comitado)** de nossos arquivos
   - ``` git status ```
 
+- Basicamente ele realizar o empurrar dos nossos arquivos para o depósito do GitHub
+  - ``` git push ```	 
+
 
 ## O que é GitHub?
 
